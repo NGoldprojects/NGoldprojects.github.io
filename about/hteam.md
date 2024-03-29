@@ -20,7 +20,7 @@ According to my idea, this website should have info about the team and its playe
 After the dissolution of our team in either 2019 or 2020, I decided to revive some of the website historical value by reviving this website as a nice memory.
 
 ::: warning
-Most of the text has been done with the help of an online translator. If you notice an error, please [go here](https://github.com/NGoldprojects/hteam/issues) and report the issue.
+Most of the text has been done with the help of an online translator. If you notice an error, please [go here](https://github.com/NGoldprojects/NGoldprojects.github.io/issues) and report the issue.
 :::
 
 ## A few screenshots of the old "HTeam"

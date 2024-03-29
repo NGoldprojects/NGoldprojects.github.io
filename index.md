@@ -6,6 +6,7 @@ hero:
   name: "Nikita Golubev"
   text: "Old Projects"
   tagline: All my old projects from 2017-2020
+  image: /logo.png
   # actions:
   #   - theme: brand
   #     text: Markdown Examples
@@ -20,5 +21,6 @@ features:
     link: '/about/hteam'
   - title: SB (Also knows as 'SedmoiBe')
     details: Cooming soon...
+    link: '/about/sb'
 ---
 
