@@ -19,8 +19,11 @@ features:
   - title: HTeam
     details: This was one of my first websites. It was created in 2018, and it was my second website. The website was created for my CS:GO team.
     link: '/about/hteam'
+    icon: 
+      src: /hteamlogo.png
   - title: SB (Also knows as 'SedmoiBe')
     details: Cooming soon...
     link: '/about/sb'
+    icon: 🗿
 ---
 
