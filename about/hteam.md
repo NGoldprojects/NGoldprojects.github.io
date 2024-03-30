@@ -25,8 +25,8 @@ Most of the text has been done with the help of an online translator. If you not
 
 ## A few screenshots of the old "HTeam"
 
-<!-- Broke? -->
-![](/public/hteam/gaahqa23.jpg)
-![](/public/hteam/agaqy1.jpg)
-![](/public/hteam/haaaWt23.jpg)
-![](/public/hteam/agaa922.jpg)
+<!-- Warns? -->
+![](./hteam/gaahqa23.jpg)
+![](./hteam/agaqy1.jpg)
+![](./hteam/haaaWt23.jpg)
+![](./hteam/agaa922.jpg)
