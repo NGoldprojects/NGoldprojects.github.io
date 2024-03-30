@@ -24,6 +24,8 @@ Most of the text has been done with the help of an online translator. If you not
 :::
 
 ## A few screenshots of the old "HTeam"
+
+<!-- Why it always broke -->
 ![](/hteam/gaahqa23.jpg)
 ![](/hteam/agaqy1.jpg)
 ![](/hteam/haaaWt23.jpg)
