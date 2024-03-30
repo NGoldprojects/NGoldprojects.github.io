@@ -11,5 +11,5 @@ Most of the text has been done with the help of an online translator. If you not
 :::
 
 ## A few screenshots of the old "HTeam"
-![](/sb/MPgOMNMTPDs.jpg)
-![](/sb/fXD92wywAb0.jpg)
+![](/public/sb/MPgOMNMTPDs.jpg)
+![](/public/sb/fXD92wywAb0.jpg)
