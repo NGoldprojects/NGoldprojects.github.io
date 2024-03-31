@@ -10,6 +10,6 @@ It was a website that a friend of mine asked me to create for a magazine he was 
 Most of the text has been done with the help of an online translator. If you notice an error, please [go here](https://github.com/NGoldprojects/NGoldprojects.github.io/issues) and report the issue.
 :::
 
-## A few screenshots of the old "HTeam"
+## A few screenshots of the old "SB"
 ![](./sb/MPgOMNMTPDs.jpg)
 ![](./sb/fXD92wywAb0.jpg)

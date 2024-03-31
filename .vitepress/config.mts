@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "NG Old projects",
   description: "My Old projects",
+  head: [
+    ['link', { rel: "shortcut icon", href: "/favicon.ico"}]
+  ],
   lastUpdated: true,
   themeConfig: {
     logo: '/logo.png',
