@@ -25,5 +25,10 @@ features:
     details: Cooming soon...
     link: '/about/sb'
     icon: 🗿
+  - title: JSR
+    details: This project was originally conceived as a kind of Wikipedia for the game "SoulWorker", but it never came to fruition.
+    link: '/about/jsr'
+    icon: 
+      src: /jsroldlogo.jpg
 ---
 
