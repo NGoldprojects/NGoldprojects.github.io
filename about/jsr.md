@@ -22,7 +22,7 @@ It was a great idea, but at that point in time, it was too difficult for me.Now,
 Most of the text has been done with the help of an online translator. If you notice an error, please [go here](https://github.com/NGoldprojects/NGoldprojects.github.io/issues) and report the issue.
 :::
 
-## A few screenshots of the old "HTeam"
+## A few screenshots of the old "JSR"
 
 <!-- Warns? -->
 ![](./jsr/IOKeW3YgURg.jpg)
