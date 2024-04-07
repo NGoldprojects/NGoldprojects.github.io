@@ -1,6 +1,6 @@
 # SB (SedmoiBe)
-::: danger NOT READY
-The redesign of the website is still in progress. Please stay tuned for updates!
+::: info
+https://ngoldprojects.github.io/sb/sb.html
 :::
 
 ## Short story

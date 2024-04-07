@@ -24,7 +24,8 @@ features:
   - title: SB (Also knows as 'SedmoiBe')
     details: Cooming soon...
     link: '/about/sb'
-    icon: 🗿
+    icon: 
+      src: /sblogo.png
   - title: JSR
     details: This project was originally conceived as a kind of Wikipedia for the game "SoulWorker", but it never came to fruition.
     link: '/about/jsr'
