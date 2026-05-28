@@ -9,7 +9,7 @@ This was one of my first websites.
 It was created in 2018 and became my second website. The site was made for my CS:GO team.
 
 ::: info
-"HTeam" is not the original name of the website. The real original name can be found on the [site](https://ngoldprojects.github.io/hteam/hteam.html) itself. itself.
+"HTeam" is not the original name of the website. The real original name can be found on the [site](https://ngoldprojects.github.io/hteam/hteam.html) itself.
 :::
 
 ## Short story 
