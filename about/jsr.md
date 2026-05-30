@@ -4,7 +4,9 @@
 
 # JSR (Japanese SoulWorker in Russian)
 
-This project was originally conceived as a kind of Wikipedia for the game "SoulWorker", but it never came to fruition. A lot of work was planned, but it never reached full implementation.
+This project started as a community-driven wiki for [SoulWorker](https://en.wikipedia.org/wiki/SoulWorker).
+
+I had a lot of ideas and plans for it, but most of them never made it beyond the planning stage.
 
 ::: danger NOT READY
 The redesign of the website is still in progress. Please stay tuned for updates!
@@ -12,15 +14,16 @@ The redesign of the website is still in progress. Please stay tuned for updates!
 
 ## Short Story
 
-I loved playing SoulWorker. I first heard about this game on Steam. At that time (around 2018), the European version of the game was available on Steam and updates were released slowly for this version, always behind the Japanese and Korean versions. Since the Japanese version was easier to access, I switched to that. 
+I used to be a huge fan of [SoulWorker](https://en.wikipedia.org/wiki/SoulWorker) and played it regularly between 2018 and 2020. Back then, the European version was available on Steam with English support, but updates were released much later than on the Japanese and Korean servers. Because of that, I eventually switched to the Japanese server.
 
-At first, I played without a translator, and it was difficult to understand the storylines of new characters and descriptions of items and skills. So, I decided to create my own wiki on the game where everything could be read in Russian. Later, I planned to create an English version as well, but, from the above text, you can probably understand that the project eventually failed due to "many plans but little desire". 
+The idea behind this Russian [SoulWorker](https://en.wikipedia.org/wiki/SoulWorker) project came from a simple problem: the game was in Japanese. While there was a translation patch available, it didn't cover everything. Understanding the story, item descriptions, and various game mechanics could be difficult at times. So I thought it would be useful to create a wiki that could help other players who were in the same situation.
 
-It was a great idea, but at that point in time, it was too difficult for me.Now, there is no need for this, as the global version of the game has already been released on Steam, where everything is in English.
+It was a fun idea, but looking back, it was far too ambitious for me at the time. I started the project in 2018, and building and maintaining a complete game wiki turned out to be a much bigger task than I expected.
 
-::: warning
-Most of the text has been done with the help of an online translator. If you notice an error, please [go here](https://github.com/NGoldprojects/NGoldprojects.github.io/issues) and report the issue.
-:::
+Today, a project like this is no longer really needed. The European server has shut down, and a global server has taken its place. Updates are now released alongside the Japanese server, and the game has proper English support, making information much more accessible than it was back then.
+
+The game itself has also seen a significant decline in popularity, with a much smaller player base than during its peak years. Combined with the availability of English resources, this has made a dedicated Russian [SoulWorker](https://en.wikipedia.org/wiki/SoulWorker) wiki far less relevant than it once seemed.
+
 
 ## A few screenshots of the old "JSR"
 
